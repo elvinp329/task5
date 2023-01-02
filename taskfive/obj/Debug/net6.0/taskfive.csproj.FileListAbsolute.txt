@@ -1,0 +1,15 @@
+C:\Users\user\Downloads\taskfive\taskfive\bin\Debug\net6.0\taskfive.exe
+C:\Users\user\Downloads\taskfive\taskfive\bin\Debug\net6.0\taskfive.deps.json
+C:\Users\user\Downloads\taskfive\taskfive\bin\Debug\net6.0\taskfive.runtimeconfig.json
+C:\Users\user\Downloads\taskfive\taskfive\bin\Debug\net6.0\taskfive.dll
+C:\Users\user\Downloads\taskfive\taskfive\bin\Debug\net6.0\taskfive.pdb
+C:\Users\user\Downloads\taskfive\taskfive\obj\Debug\net6.0\taskfive.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\taskfive\taskfive\obj\Debug\net6.0\taskfive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\taskfive\taskfive\obj\Debug\net6.0\taskfive.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\taskfive\taskfive\obj\Debug\net6.0\taskfive.AssemblyInfo.cs
+C:\Users\user\Downloads\taskfive\taskfive\obj\Debug\net6.0\taskfive.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\taskfive\taskfive\obj\Debug\net6.0\taskfive.dll
+C:\Users\user\Downloads\taskfive\taskfive\obj\Debug\net6.0\refint\taskfive.dll
+C:\Users\user\Downloads\taskfive\taskfive\obj\Debug\net6.0\taskfive.pdb
+C:\Users\user\Downloads\taskfive\taskfive\obj\Debug\net6.0\taskfive.genruntimeconfig.cache
+C:\Users\user\Downloads\taskfive\taskfive\obj\Debug\net6.0\ref\taskfive.dll
